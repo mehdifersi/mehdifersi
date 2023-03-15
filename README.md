@@ -17,9 +17,11 @@
 
 <h2>GitHub Analytics</h2>
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Mahdi-fersi&show_icons=true&theme=dark#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-fersi&layout=compact&theme=dark#gh-dark-mode-only)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdifersi&show_icons=true&locale=en&layout=compact" alt="mehdifersi" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdifersi&show_icons=true&locale=en" alt="mehdifersi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehdifersi&" alt="mehdifersi" /></p>
 <h2>Contact</h2>
 
 <ul>
