@@ -27,4 +27,5 @@
 <ul>
   <li>Email: mahdi.fersi@esprit.tn</li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/mahdi-fersi-349577215/">Mahdi Fersi</a></li>
+  <li>Website: <a href="https://mehdifersi.github.io/">Mahdi fersi </a></li>
 </ul>
