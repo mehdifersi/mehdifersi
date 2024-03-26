@@ -7,7 +7,7 @@
 <p>I am always looking for new opportunities to learn and collaborate, so don't hesitate to reach out if you have any questions or would like to work together on a project.</p>
 
 <p>Thanks for visiting!</p>
-<h3>Things I code with</h3>
+<h3>Things I code with :</h3>
 <p>
   
   <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
